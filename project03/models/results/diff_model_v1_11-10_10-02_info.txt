@@ -1,0 +1,112 @@
+DiffModel(
+  (input): Linear(in_features=2000, out_features=1000, bias=True)
+  (bn1): BatchNorm1d(1000, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=1000, out_features=400, bias=True)
+  (bn2): BatchNorm1d(400, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc2): Linear(in_features=400, out_features=100, bias=True)
+  (bn3): BatchNorm1d(100, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc3): Linear(in_features=100, out_features=40, bias=True)
+  (bn4): BatchNorm1d(40, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (output): Linear(in_features=40, out_features=1, bias=True)
+)
+class 00: predicted as 00 with confidence 0.8912
+class 01: predicted as 01 with confidence 0.9915
+class 02: predicted as 02 with confidence 0.9082
+class 03: predicted as 03 with confidence 0.9984
+class 04: predicted as 04 with confidence 0.9341
+class 05: predicted as 05 with confidence 0.9654
+class 06: predicted as 06 with confidence 0.7847
+class 07: predicted as 07 with confidence 0.9967
+class 08: predicted as 08 with confidence 0.9839
+class 09: predicted as 09 with confidence 0.9077
+class 10: predicted as 10 with confidence 0.8513
+class 11: predicted as 11 with confidence 0.6892
+class 12: predicted as 86 with confidence 0.9077
+class 13: predicted as 71 with confidence 0.7555
+class 14: predicted as 04 with confidence 0.7945
+class 15: predicted as 15 with confidence 0.9705
+class 16: predicted as 16 with confidence 0.8115
+class 17: predicted as 17 with confidence 0.8167
+class 18: predicted as 20 with confidence 0.5303
+class 19: predicted as 19 with confidence 0.8513
+class 20: predicted as 20 with confidence 0.6358
+class 21: predicted as 21 with confidence 0.8399
+class 22: predicted as 22 with confidence 0.7940
+class 23: predicted as 23 with confidence 0.9733
+class 24: predicted as 24 with confidence 0.9253
+class 25: predicted as 15 with confidence 0.5476
+class 26: predicted as 26 with confidence 0.8535
+class 27: predicted as 27 with confidence 0.8560
+class 28: predicted as 28 with confidence 0.8546
+class 29: predicted as 29 with confidence 0.9307
+class 30: predicted as 30 with confidence 0.8796
+class 31: predicted as 31 with confidence 0.7473
+class 32: predicted as 32 with confidence 0.9699
+class 33: predicted as 33 with confidence 0.8664
+class 34: predicted as 34 with confidence 0.9762
+class 35: predicted as 35 with confidence 0.9238
+class 36: predicted as 36 with confidence 0.9703
+class 37: predicted as 37 with confidence 0.5703
+class 38: predicted as 38 with confidence 0.9700
+class 39: predicted as 39 with confidence 0.9904
+class 40: predicted as 40 with confidence 0.9489
+class 41: predicted as 41 with confidence 0.9734
+class 42: predicted as 42 with confidence 0.9744
+class 43: predicted as 43 with confidence 0.9709
+class 44: predicted as 96 with confidence 0.6729
+class 45: predicted as 45 with confidence 0.8343
+class 46: predicted as 46 with confidence 0.9956
+class 47: predicted as 47 with confidence 0.8856
+class 48: predicted as 48 with confidence 0.8269
+class 49: predicted as 49 with confidence 0.7923
+class 50: predicted as 50 with confidence 0.9677
+class 51: predicted as 51 with confidence 0.9605
+class 52: predicted as 52 with confidence 0.9341
+class 53: predicted as 53 with confidence 0.9048
+class 54: predicted as 54 with confidence 0.6890
+class 55: predicted as 55 with confidence 0.9361
+class 56: predicted as 56 with confidence 0.7540
+class 57: predicted as 57 with confidence 0.9124
+class 58: predicted as 58 with confidence 0.7777
+class 59: predicted as 59 with confidence 0.9047
+class 60: predicted as 60 with confidence 0.9976
+class 61: predicted as 61 with confidence 0.7637
+class 62: predicted as 62 with confidence 0.9982
+class 63: predicted as 63 with confidence 0.7157
+class 64: predicted as 64 with confidence 0.7277
+class 65: predicted as 65 with confidence 0.6955
+class 66: predicted as 66 with confidence 0.9611
+class 67: predicted as 67 with confidence 0.9626
+class 68: predicted as 68 with confidence 0.8975
+class 69: predicted as 69 with confidence 0.9972
+class 70: predicted as 70 with confidence 0.7068
+class 71: predicted as 71 with confidence 0.4054
+class 72: predicted as 72 with confidence 0.9788
+class 73: predicted as 73 with confidence 0.9908
+class 74: predicted as 74 with confidence 0.9215
+class 75: predicted as 75 with confidence 0.9554
+class 76: predicted as 76 with confidence 0.8501
+class 77: predicted as 77 with confidence 0.9722
+class 78: predicted as 78 with confidence 0.8549
+class 79: predicted as 79 with confidence 0.9333
+class 80: predicted as 80 with confidence 0.7962
+class 81: predicted as 81 with confidence 0.9759
+class 82: predicted as 82 with confidence 0.9260
+class 83: predicted as 83 with confidence 0.9517
+class 84: predicted as 84 with confidence 0.9752
+class 85: predicted as 85 with confidence 0.9812
+class 86: predicted as 86 with confidence 0.9963
+class 87: predicted as 87 with confidence 0.9963
+class 88: predicted as 88 with confidence 0.9668
+class 89: predicted as 89 with confidence 0.9821
+class 90: predicted as 90 with confidence 0.8779
+class 91: predicted as 91 with confidence 0.8840
+class 92: predicted as 92 with confidence 0.9138
+class 93: predicted as 93 with confidence 0.9802
+class 94: predicted as 88 with confidence 0.3816
+class 95: predicted as 95 with confidence 0.9449
+class 96: predicted as 96 with confidence 0.7495
+class 97: predicted as 97 with confidence 0.9554
+class 98: predicted as 98 with confidence 0.9625
+class 99: predicted as 99 with confidence 0.9544
+accuracy: 0.9300

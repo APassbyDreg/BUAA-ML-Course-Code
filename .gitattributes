@@ -1,0 +1,6 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*_pretrained filter=lfs diff=lfs merge=lfs -text
+*.pkl  filter=lfs diff=lfs merge=lfs -text
+resnet50_pretrained filter=lfs diff=lfs merge=lfs -text
+resnext50_32x4d_pretrained filter=lfs diff=lfs merge=lfs -text
+fasterrcnn_resnet50_fpn_pretrained filter=lfs diff=lfs merge=lfs -text
