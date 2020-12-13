@@ -1,6 +1,6 @@
 # BUAA-ML-Course-Code
 
-code example of BUAA-MachineLearning course (B3I063150), 2020 Fall
+dirty code example of BUAA-MachineLearning course (B3I063150), 2020 Fall
 
 Created by **Martin Z He** , for learning use only
 
@@ -20,4 +20,4 @@ palmprint recognition
 
 ## NOTE
 
-this is *NOT* the best solution, refernce it carefully
+this is *NOT* an optimal solution, refernce it carefully
